@@ -54,7 +54,7 @@ def wordforming(mmvalue, values):
 
 @introduction
 def oldRusConvert():
-    SAGEN = 2111
+    SAGEN = 2117
     ARSHIN = 700
     VERSHOK = 44
 
